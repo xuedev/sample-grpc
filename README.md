@@ -6,3 +6,6 @@ docker image:
 	
 docker run:
 	docker run -itd --name go.rpc -p 8888:8888 golang/xuedev.grpc
+
+docker in:
+	docker exec -it container_id /bin/bash
