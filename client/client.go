@@ -7,7 +7,7 @@ import (
 
 	"golang.org/x/net/context"
 
-	pb "github.com/xuedev/sample/grpc/helloworld"
+	pb "github.com/xuedev/sample-grpc/helloworld"
 
 	"google.golang.org/grpc"
 )
